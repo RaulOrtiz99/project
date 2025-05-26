@@ -9,7 +9,7 @@ interface HeroProps {
   buttonLink?: string;
 }
 
-const Hero = ({ 
+const Hero2 = ({ 
   title, 
   subtitle, 
   backgroundImage, 
@@ -50,4 +50,4 @@ const Hero = ({
   );
 };
 
-export default Hero;
+export default Hero2;

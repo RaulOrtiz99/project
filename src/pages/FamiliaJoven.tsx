@@ -88,7 +88,7 @@ const FamiliaJoven = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center z-0" 
           style={{ 
-            backgroundImage: "url('https://images.pexels.com/photos/1311244/pexels-photo-1311244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')",
+            backgroundImage: "url('https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')",
           }}
         >
           <div className="absolute inset-0 bg-gradient-to-r from-black/70 to-black/30"></div>
