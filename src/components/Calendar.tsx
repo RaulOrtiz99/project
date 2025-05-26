@@ -101,12 +101,7 @@ const Calendar = () => {
                   <span>{selectedEvent.location}</span>
                 </div>
                 <p className="text-gray-700 mb-6">{selectedEvent.description}</p>
-                <a 
-                  href="#" 
-                  className="bg-celestial-500 hover:bg-celestial-600 text-white font-medium py-2 px-6 rounded-md transition duration-300 inline-block"
-                >
-                  Añadir al Calendario
-                </a>
+                
               </div>
             </div>
           </div>
